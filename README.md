@@ -92,6 +92,7 @@ projecte_iot/
 ## 👥 Autors
 
 - artuur16dev
+- ANWAR
 
 ---
 
